@@ -6,7 +6,7 @@ import hashlib
 from django.core.exceptions import ValidationError
 import time
 
-PATH = '/Users/ronardlunagerman/Desktop/Programming/Python/TTD/chromedriver'
+PATH = '/Python/TTD/chromedriver'
 
 class FunctionalTestCase(TestCase):
 
